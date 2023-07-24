@@ -1,6 +1,5 @@
 # Mapty
-Summary:- Summary for README file:
-
+Summary:- 
 This project is a web application that allows users to log their workouts, specifically running and cycling activities, on a map. Users can input data such as the type of workout, distance, duration, and other relevant details through a form. The application then displays the logged workouts as markers on the map. The workouts can be clicked on to view more details. Users can also toggle between running and cycling activities and input different data accordingly. The application uses Geolocation to get the user's position and displays the map accordingly. Workouts are saved to local storage, so they persist even after reloading the page. The project is built using JavaScript and Leaflet.js library for handling maps. The code follows the Object-Oriented Programming (OOP) approach, with classes for Workout, Running, Cycling, and App. The Workout class serves as the base class, and Running and Cycling classes inherit from it. The App class handles the main application logic, including event listeners and rendering the workouts on the map and in the list. 
 
 <img width="1435" alt="Screenshot 2023-07-24 at 10 51 29 PM" src="https://github.com/tanishq-1012/Mapty/assets/96770081/97b34811-9bf4-4305-b95f-fa0aa5145bb7">
